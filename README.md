@@ -1,5 +1,5 @@
-DessertClicker - Code
-=====================
+DessertClicker
+==============
 Introduction
 ------------
 
